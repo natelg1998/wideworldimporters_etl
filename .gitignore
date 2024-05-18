@@ -1,0 +1,12 @@
+/db_config/
+/table_extracts/Cities.parquet
+/table_extracts/Countries.parquet
+/table_extracts/Dim_Cities.parquet
+/table_extracts/Dim_Countries.parquet
+/table_extracts/Dim_Customers.parquet
+/table_extracts/Fact_Order.parquet
+/table_extracts/Dim_States.parquet
+/table_extracts/OrderDetails.parquet
+/table_extracts/Orders.parquet
+/table_extracts/StateProvinces.parquet
+/notebooks/.ipynb_checkpoints/
